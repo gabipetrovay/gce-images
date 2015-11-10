@@ -2,6 +2,7 @@
 
 var assert = require('assert');
 var async = require('async');
+var describe = require('describe');
 
 var gceImages = require('./index.js')();
 
